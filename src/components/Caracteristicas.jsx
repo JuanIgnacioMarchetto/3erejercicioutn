@@ -12,7 +12,7 @@ const Caracteristicas = () => {
             <p>Modelos: Deadpool, Domino, Cable</p>
             <p>Edad recomendada: a partir de 8 años.</p>
             <hr />
-            <p>Únete a ellos mientras se preparan para detener a los malos (y a veces a los buenos también)</p>
+            <p>Únete a Xforce mientras se preparan para detener a los malos (y a veces a los buenos también)</p>
             <p>Son de Vulcanita</p>
         </div>
     )
