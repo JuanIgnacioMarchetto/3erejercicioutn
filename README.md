@@ -9,5 +9,7 @@ ecommerce, se deberán visualizar los siguientes datos:
 ● Precio
 ● SKU
 ● Cantidad disponible
+
 Realizar un maquetado con los datos, desarrollado con componentes.
 
+![deadapp](https://github.com/JuanIgnacioMarchetto/3erejercicioutn/assets/43477348/9e683eca-d4e1-4d81-8f89-035f5846859b)
