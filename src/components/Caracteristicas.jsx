@@ -3,7 +3,7 @@
 const Caracteristicas = () => {
     return (
         <div className="w-75">
-             <p>Deadpool llega con su equipo para salvar el día</p>
+            <p>Deadpool llega con su equipo para salvar el día</p>
             <p>Cuando aparece un problema,Èl puede empeorar todo o salvar el día</p>
             <p>El sicario "Bocasas" tiene varias combinaciones de gestos para divertirnos</p>
             <p>Las armas son removibles e intercambiables</p>

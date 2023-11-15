@@ -7,20 +7,20 @@ import Caracteristicas from "./components/Caracteristicas";
 function App() {
   return (
     <>
-        <NavBar />
-    <div className="container">
-      <div className="row mt-3">
-        <div className="row col-lg-9">
-          <Container />
+      <NavBar />
+      <div className="container">
+        <div className="row mt-3">
+          <div className="row col-lg-9">
+            <Container />
+          </div>
+          <div className="col-lg-3">
+            <Detalles />
+          </div>
         </div>
-        <div className="col-lg-3">
-          <Detalles />
+        <div className="m-5 ">
+          <Caracteristicas />
         </div>
       </div>
-      <div className="m-5 ">
-        <Caracteristicas />
-      </div>
-    </div>
     </>
   );
 }
