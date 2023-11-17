@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import SideBar from "./SideBar";
+import SideBar from "../sidebar/SideBar";
 import imagen01 from '../images/deadpool.webp'
 import imagen02 from '../images/domino.jpg'
 import imagen03 from '../images/deadpoolcabledomino.jpg'
