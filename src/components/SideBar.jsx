@@ -18,32 +18,3 @@ const SideBar = ({ setCurrentImage, imagenes }) => {
 };
 
 export default SideBar;
-onst TaskList = () => {
-    const [tasks, setTasks] = useState([]);
-   
-    const addTask = (newTask) => {
-    setTasks([...tasks, newTask]);
-    };
-   
-    return (
-    <div>
-    <form onSubmit={(e) => {
-    e.preventDefault();
-    const taskInput = e.target.elements.taskInput;
-    addTask(taskInput.value);
-    taskInput.value = '';
-    }}
-    >
-    <input type="text" name="taskInput" />
-    <button type="submit">Add Task</button>
-    </form>
-    <ul>
-    {tasks.map((task, index) => (
-    <li key={index}>{task}</li>
-    ))}
-    </ul>
-    </div>
-    );
-   };
-   
-   export default TaskList;
