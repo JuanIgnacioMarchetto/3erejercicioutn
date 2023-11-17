@@ -1,6 +1,6 @@
 import React from "react";
-import NavBar from "./components/NavBar";
-import Container from "./components/Container";
+import NavBar from "./components/navbar/NavBar.jsx";
+import Container from "./components/conteiner/Container.jsx";
 import Detalles from "./components/detalles/Detalles.jsx";
 import Caracteristicas from "./components/caracteristicas/Caracteristicas.jsx";
 
