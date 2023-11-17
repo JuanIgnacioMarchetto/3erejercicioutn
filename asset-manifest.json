@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JuanIgnacioMarchetto/3erejercicioutn/static/css/main.f349675e.css",
+    "main.js": "/JuanIgnacioMarchetto/3erejercicioutn/static/js/main.c5cbf6b2.js",
+    "static/js/787.d4aba7ab.chunk.js": "/JuanIgnacioMarchetto/3erejercicioutn/static/js/787.d4aba7ab.chunk.js",
+    "static/media/domino.jpg": "/JuanIgnacioMarchetto/3erejercicioutn/static/media/domino.c247353f922129c9e3bd.jpg",
+    "static/media/deadpoolcabledomino.jpg": "/JuanIgnacioMarchetto/3erejercicioutn/static/media/deadpoolcabledomino.beae97df32ffdfe4915c.jpg",
+    "static/media/deadpool.webp": "/JuanIgnacioMarchetto/3erejercicioutn/static/media/deadpool.f8ff304dcc57112c7a92.webp",
+    "static/media/figuradeadpool.webp": "/JuanIgnacioMarchetto/3erejercicioutn/static/media/figuradeadpool.bd1c780970e8c4bb0a7c.webp",
+    "static/media/cable.webp": "/JuanIgnacioMarchetto/3erejercicioutn/static/media/cable.78d67bf09571e92c8291.webp",
+    "index.html": "/JuanIgnacioMarchetto/3erejercicioutn/index.html",
+    "main.f349675e.css.map": "/JuanIgnacioMarchetto/3erejercicioutn/static/css/main.f349675e.css.map",
+    "main.c5cbf6b2.js.map": "/JuanIgnacioMarchetto/3erejercicioutn/static/js/main.c5cbf6b2.js.map",
+    "787.d4aba7ab.chunk.js.map": "/JuanIgnacioMarchetto/3erejercicioutn/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f349675e.css",
+    "static/js/main.c5cbf6b2.js"
+  ]
+}
