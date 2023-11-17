@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import SideBar from "./SideBar";
-import imagen01 from '../images/Figura-de-acci-n-de-Marvel-x-man-Deadpool-figura-de-Anime-Deadpool-Joints-estatua-cl.jpg_.webp'
+import imagen01 from '../images/deadpool.webp'
 import imagen02 from '../images/domino.jpg'
 import imagen03 from '../images/deadpoolcabledomino.jpg'
-import imagen04 from '../images/Marvel-Legends-x-men-CABLE-figura-de-acci-n-Deadpool-2-pel-cula-exclusiva-juguetes-modelo.jpg_.webp'
+import imagen04 from '../images/cable.webp'
 import imagen05 from '../images/figuradeadpool.webp'
 
 const Container = () => {
